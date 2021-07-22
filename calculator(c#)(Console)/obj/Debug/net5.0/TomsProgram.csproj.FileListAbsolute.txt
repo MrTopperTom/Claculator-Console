@@ -1,0 +1,96 @@
+D:\topper\TomsProgram\bin\Debug\net5.0\TomsProgram.exe
+D:\topper\TomsProgram\bin\Debug\net5.0\TomsProgram.deps.json
+D:\topper\TomsProgram\bin\Debug\net5.0\TomsProgram.runtimeconfig.json
+D:\topper\TomsProgram\bin\Debug\net5.0\TomsProgram.runtimeconfig.dev.json
+D:\topper\TomsProgram\bin\Debug\net5.0\TomsProgram.dll
+D:\topper\TomsProgram\bin\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\TomsProgram\bin\Debug\net5.0\TomsProgram.pdb
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.csprojAssemblyReference.cache
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.AssemblyInfoInputs.cache
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.AssemblyInfo.cs
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.csproj.CoreCompileInputs.cache
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.dll
+D:\topper\TomsProgram\obj\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.pdb
+D:\topper\TomsProgram\obj\Debug\net5.0\TomsProgram.genruntimeconfig.cache
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.exe
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.deps.json
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.json
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.dev.json
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.dll
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.pdb
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.csprojAssemblyReference.cache
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.AssemblyInfoInputs.cache
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.AssemblyInfo.cs
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.csproj.CoreCompileInputs.cache
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.dll
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.pdb
+D:\topper\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.genruntimeconfig.cache
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.exe
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.deps.json
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.json
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.dev.json
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.dll
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.pdb
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.csprojAssemblyReference.cache
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.AssemblyInfoInputs.cache
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.AssemblyInfo.cs
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.csproj.CoreCompileInputs.cache
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.dll
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.pdb
+D:\topper\YE\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.genruntimeconfig.cache
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.exe
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.deps.json
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.json
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.dev.json
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.dll
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\bin\Debug\net5.0\TomsProgram.pdb
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.csprojAssemblyReference.cache
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.AssemblyInfoInputs.cache
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.AssemblyInfo.cs
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.csproj.CoreCompileInputs.cache
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.dll
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.pdb
+D:\topper\Coding\Programs\NOT VERRY SUPER COMPUTER(C#)\obj\Debug\net5.0\TomsProgram.genruntimeconfig.cache
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.csprojAssemblyReference.cache
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.AssemblyInfoInputs.cache
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.AssemblyInfo.cs
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.csproj.CoreCompileInputs.cache
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.dll
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.pdb
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\TomsProgram.exe
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\TomsProgram.deps.json
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.json
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\TomsProgram.runtimeconfig.dev.json
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\TomsProgram.dll
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Coding\Programs\calclator(c#)\bin\Debug\net5.0\TomsProgram.pdb
+D:\topper\Coding\Programs\calclator(c#)\obj\Debug\net5.0\TomsProgram.genruntimeconfig.cache
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\TomsProgram.exe
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\TomsProgram.deps.json
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\TomsProgram.runtimeconfig.json
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\TomsProgram.runtimeconfig.dev.json
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\TomsProgram.dll
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\bin\Debug\net5.0\TomsProgram.pdb
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.csprojAssemblyReference.cache
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.AssemblyInfoInputs.cache
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.AssemblyInfo.cs
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.csproj.CoreCompileInputs.cache
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.dll
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\ref\TomsProgram.dll
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.pdb
+D:\topper\Coding\Programs\Calcuator\calclator(c#(Console))\obj\Debug\net5.0\TomsProgram.genruntimeconfig.cache
