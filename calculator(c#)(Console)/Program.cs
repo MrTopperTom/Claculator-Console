@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading;
 //made by TopperTom
 namespace TomsProgram
 {
@@ -11,7 +10,7 @@ namespace TomsProgram
             Console.Title = "Calclator";
             Console.ForegroundColor = ConsoleColor.Green;
             //Welcome
-            Console.WriteLine("Welcome to calculator\nMade by TopperTom!");
+            Console.WriteLine("Welcome to calculator\nMade by Tom Harrison!");
             //Calclator
             string cal;
             Double num01;
