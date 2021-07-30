@@ -1,2 +1,2 @@
 # Claculator-Console
-a calculator in a console
+a C# calculator in a console
