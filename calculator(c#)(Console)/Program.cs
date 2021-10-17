@@ -47,6 +47,7 @@ namespace Calculator NOT Claculator
                 if (input == "yes") {   
                     Console.WriteLine("OK. Press any key to continue...");
                     Console.ReadKey();
+                    Console.Clear();
                     goto start;
                 }
                 else {
