@@ -6,7 +6,7 @@ namespace Calculator NOT Claculator
         static void Main(string[] args)
         {
             //Display
-            Console.Title = "Calclator";
+            Console.Title = "Calculator";
             Console.ForegroundColor = ConsoleColor.Green;
             //Welcome
             Console.WriteLine("Welcome!");
